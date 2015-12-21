@@ -24,3 +24,4 @@ $query->execute(array(
 header('Content-Type: application/json');
 echo json_encode(array('success' => $query->rowCount() === 1));
 ?>
+<!-- Мельник -->

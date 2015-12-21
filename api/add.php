@@ -23,3 +23,4 @@ $query->execute(array(
 
 echo json_encode(array('id' => $link->lastInsertId()));
 ?>
+<!-- Мельник -->

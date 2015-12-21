@@ -22,3 +22,4 @@ $query->execute(array(
 
 echo json_encode(array('success' => $query->rowCount() === 1));
 ?>
+<!-- Мельник -->
